@@ -1,0 +1,47 @@
+2024-09-25 23:30:47,947 - INFO - Train accuracy: 1.0000
+2024-09-25 23:30:47,952 - INFO - Test accuracy: 0.9609
+2024-09-25 23:30:48,064 - INFO - Modelo y escalador guardados en Framework/model/random_forest_model.joblib
+2024-09-25 23:37:31,860 - INFO - Matriz de confusión:
+[[9589  454]
+ [ 271 8250]]
+2024-09-25 23:37:31,865 - INFO - Precisión (accuracy): 0.9609
+2024-09-25 23:37:31,865 - INFO - Sensibilidad (recall): 0.9682
+2024-09-25 23:37:31,865 - INFO - Especificidad (precision): 0.9548
+2024-09-25 23:37:31,866 - INFO - F1-score: 0.9614
+2024-09-25 23:37:32,002 - INFO - AUC-ROC: 0.9939
+2024-09-25 23:37:32,004 - INFO - Train accuracy: 1.0000
+2024-09-25 23:37:32,004 - INFO - Test accuracy: 0.9609
+2024-09-25 23:37:32,112 - INFO - Modelo y escalador guardados en Framework/model/random_forest_model.joblib
+2024-09-26 00:01:05,268 - INFO - Matriz de confusión:
+[[9589  454]
+ [ 271 8250]]
+2024-09-26 00:01:05,273 - INFO - Precisión (accuracy): 0.9609
+2024-09-26 00:01:05,273 - INFO - Sensibilidad (recall): 0.9682
+2024-09-26 00:01:05,274 - INFO - Especificidad (precision): 0.9548
+2024-09-26 00:01:05,274 - INFO - F1-score: 0.9614
+2024-09-26 00:01:05,411 - INFO - AUC-ROC: 0.9939
+2024-09-26 00:01:05,412 - INFO - Train accuracy: 1.0000
+2024-09-26 00:01:05,412 - INFO - Test accuracy: 0.9609
+2024-09-26 00:01:05,538 - INFO - Modelo y escalador guardados en Framework/model/random_forest_model.joblib
+2024-09-26 00:16:17,277 - INFO - Matriz de confusión:
+[[9601  442]
+ [ 269 8252]]
+2024-09-26 00:16:17,283 - INFO - Precisión (accuracy): 0.9617
+2024-09-26 00:16:17,283 - INFO - Sensibilidad (recall): 0.9684
+2024-09-26 00:16:17,284 - INFO - Especificidad (precision): 0.9560
+2024-09-26 00:16:17,284 - INFO - F1-score: 0.9622
+2024-09-26 00:16:17,423 - INFO - AUC-ROC: 0.9939
+2024-09-26 00:16:17,423 - INFO - Train accuracy: 1.0000
+2024-09-26 00:16:17,424 - INFO - Test accuracy: 0.9617
+2024-09-26 00:16:17,585 - INFO - Modelo y escalador guardados en Framework/model/random_forest_model.joblib
+2024-09-26 00:20:00,163 - INFO - Matriz de confusión:
+[[9601  442]
+ [ 269 8252]]
+2024-09-26 00:20:00,169 - INFO - Precisión (accuracy): 0.9617
+2024-09-26 00:20:00,169 - INFO - Sensibilidad (recall): 0.9684
+2024-09-26 00:20:00,169 - INFO - Especificidad (precision): 0.9560
+2024-09-26 00:20:00,169 - INFO - F1-score: 0.9622
+2024-09-26 00:20:00,306 - INFO - AUC-ROC: 0.9939
+2024-09-26 00:20:00,306 - INFO - Train accuracy: 1.0000
+2024-09-26 00:20:00,306 - INFO - Test accuracy: 0.9617
+2024-09-26 00:20:00,435 - INFO - Modelo y escalador guardados en Framework/model/random_forest_model.joblib
